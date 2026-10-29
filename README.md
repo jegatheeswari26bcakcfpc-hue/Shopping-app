@@ -1,6 +1,6 @@
 # Shopping-app
-Design Link - https://www.figma.com/design/bI2L2agsI6xkOJ06zpPRUX/Untitled?node-id=0-1&p=f&t=egEPOGyOZ2oTE2b5-0
-Prototype Link - https://www.figma.com/design/bI2L2agsI6xkOJ06zpPRUX/Untitled?node-id=0-1&t=egEPOGyOZ2oTE2b5-
+Design Link - https://www.figma.com/design/bI2L2agsI6xkOJ06zpPRUX/Untitled?node-id=0-1&p=f&t=EwoyLN7ECtYthiCM-0
+Prototype Link - https://www.figma.com/proto/bI2L2agsI6xkOJ06zpPRUX/Untitled?node-id=0-1&t=EwoyLN7ECtYthiCM-1
 
 # Shopping Cart Flow
 
